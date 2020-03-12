@@ -1,7 +1,7 @@
 # Mastering_Go_Second_Edition_Zh_CN
 Mastering Go 第二版中文版来袭！
 
-![](https://tva1.sinaimg.cn/large/00831rSTgy1gcrasl7c65j30pm0v412p.jpg)
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gcratw2jykj30cm0fb79r.jpg)
 
 -----
 翻译规则目前先参考第一版，https://github.com/hantmac/Mastering_Go_ZH_CN
