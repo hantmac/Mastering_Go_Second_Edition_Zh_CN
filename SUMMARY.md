@@ -8,6 +8,7 @@
     * [01.3.1 Go是完美的么](eBook/chapter1/01.3.1.md)
     * [01.3.2 什么是预处理器](eBook/chapter1/01.3.2md)
     * [01.3.3 godoc](eBook/chapter1/01.3.3.md)
+  * [01.4 01.4 编译Go代码](eBook/chapter1/01.4.md)
 
 * [3 Go基本数据类型]
   * [03.1 Go循环](eBook/chapter3/03.1.md)
