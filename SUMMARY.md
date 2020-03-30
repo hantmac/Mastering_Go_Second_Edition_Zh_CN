@@ -1,7 +1,5 @@
 * [介绍](README.md)
-
-* [1 Go与操作系统]
-  * [01.0 本书结构](eBook/chapter1/01.0.md)
+* [1 Go与操作系统](eBook/chapter1/01.0.md)
   * [01.1 Go的历史](eBook/chapter1/01.1.md)
   * [01.2 Go的未来](eBook/chapter1/01.2.md)
   * [01.3 Go的优点](eBook/chapter1/01.3.md)
@@ -9,8 +7,7 @@
     * [01.3.2 什么是预处理器](eBook/chapter1/01.3.2md)
     * [01.3.3 godoc](eBook/chapter1/01.3.3.md)
   * [01.4 编译Go代码](eBook/chapter1/01.4.md)
-
-* [3 Go基本数据类型]
+* [3 Go基本数据类型](eBook/chapter3/03.0.md)
   * [03.1 Go循环](eBook/chapter3/03.1.md)
     * [03.1.1 for循环](eBook/chapter3/03.1.1.md)
     * [03.1.2 while循环](eBook/chapter3/03.1.2.md)
@@ -39,8 +36,6 @@
   * [03.8 延伸阅读](eBook/chapter3/03.8.md)
   * [03.9 练习](eBook/chapter3/03.9.md)
   * [03.10 本章小结](eBook/chapter3/03.10.md)
-
-
 * [9 并发-Goroutines,Channel和Pipeline](eBook/chapter9/09.0.md)
   * [09.1 关于进程，线程和Go协程](eBook/chapter9/09.1.md)
     * [09.1.1 Go调度器](eBook/chapter9/09.1.1.md)
