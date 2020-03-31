@@ -1,8 +1,9 @@
 # Mastering_Go_Second_Edition_Zh_CN
 Mastering Go 第二版中文版来袭！
 ### 在线阅读
-看云: https://www.kancloud.cn/cloud001/golang
-gitbook: https://hantmac.gitbook.io/mastering-go-second/
+- 看云: https://www.kancloud.cn/cloud001/golang
+
+- gitbook: https://hantmac.gitbook.io/mastering-go-second/
 
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gcravfqmndj306b07nq4g.jpg)
 
