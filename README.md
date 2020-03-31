@@ -1,5 +1,7 @@
 # Mastering_Go_Second_Edition_Zh_CN
 Mastering Go 第二版中文版来袭！
+### 在线阅读
+https://www.kancloud.cn/cloud001/golang
 
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gcravfqmndj306b07nq4g.jpg)
 
@@ -129,11 +131,11 @@ Mastering Go 第二版中文版来袭！
   - [09.9 其他学习资源](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN/blob/master/eBook/chapter9/09.9.md)
   - [09.10 练习题](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN/blob/master/eBook/chapter9/09.10.md)
   - [09.11 本章小结](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN/blob/master/eBook/chapter9/09.11.md)
-  
-  
-  
-  
-  
+
+
+
+
+
   ### 规则&&Fork&&PR
 
 - 章节命名规则：举例，第一章第一节，01.1.md,如果第一节下面还有分支，01.1.1,依次类推;
@@ -148,8 +150,8 @@ Mastering Go 第二版中文版来袭！
   - [Jeremy](https://github.com/hantmac)
   - [calmbryan](https://github.com/calmbryan)
   - [newlife](https://github.com/newlife)
-  
-  
+
+
   ---------
 ### 授权许可
 
