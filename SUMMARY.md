@@ -7,7 +7,7 @@
     * [01.3.2 什么是预处理器](eBook/chapter1/01.3.2md)
     * [01.3.3 godoc](eBook/chapter1/01.3.3.md)
   * [01.4 编译Go代码](eBook/chapter1/01.4.md)
-* [理解 Go 的内部构造](eBook/chapter2/02.0.md)
+* [2 理解 Go 的内部构造](eBook/chapter2/02.0.md)
   * [Go 编译器](eBook/chapter2/02.1.md)
   * [Go 的垃圾回收](eBook/chapter2/02.2.md)
     * [三色算法](eBook/chapter2/02.2.1.md)
