@@ -24,7 +24,7 @@ Mastering Go 第二版中文版来袭！
 ### 交流社区
 有兴趣的读者可加golang交流群，大家一起交流。
 
-关注公众号Go_Official_Blog 了解更多官方资讯（公众号中回复`加群`即可）。
+关注公众号Go_Official_Blog 了解更多官方资讯（公众号中加微信拉入交流群）。
 
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmcur033tj306b06b74o.jpg)
 
